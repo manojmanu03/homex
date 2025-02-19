@@ -6,7 +6,7 @@ HomeX - Buy, Sell, and Rent Properties
 🚀 Features:
 🔑 User Management
     User Registration & Login (Buyers, Sellers, and Admins)
-    Secure authentication system
+    Secure authentication system 
     Profile management for users
 
 🏠 Property Listings
